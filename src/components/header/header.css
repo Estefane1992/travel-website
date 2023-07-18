@@ -1,0 +1,14 @@
+.background{
+  background-image: url('../../assets/banner.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  filter: brightness(60%);
+  min-height: 100vh;
+}
+.formulario {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
