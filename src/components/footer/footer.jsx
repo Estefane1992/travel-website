@@ -7,13 +7,13 @@ export default function Footer() {
   return (
     <Container fluid className="footer">
       <Row>
-        <Col md="4" className="footer-copywright"></Col>
-        <Col md="4" className="footer-copywright">
+        <Col md="4" className="footer-copywright" ></Col>
+        <Col md="4" className="footer-copywright" data-aos="fade-down" data-aos-duration="3000">
           <span>
-             &copy; 2023 Todos os direitos reservados. Desenvolvido por Estefane 
+             &copy; 2023 Desenvolvido por Estefane 
           </span>
         </Col>
-        <Col md="4" className="footer-body">
+        <Col md="4" className="footer-body" data-aos="fade-up" data-aos-duration="3000">
           <ul className="footer-icons">
             <li>
               <BsFacebook />

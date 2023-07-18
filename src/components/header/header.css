@@ -1,9 +1,11 @@
+/* HEADER */
 .background{
   background-image: url('../../assets/banner.png');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
   filter: brightness(60%);
+  height: 700px;
   min-height: 100vh;
 }
 .formulario {

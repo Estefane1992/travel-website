@@ -61,8 +61,9 @@ export default function Form() {
       {enviado ? (
         <p className='mensagem'>Reserva realizada com sucesso.</p>
       ) : (
-        <div className="search">
+        <div className="search " data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500" >
           <form onSubmit={handleSubmit} className="needs-validation">
+            
             {erro && <p className="error">{erro}</p>}
             <div className="row">
               <div className="col-md-6 mb-3">

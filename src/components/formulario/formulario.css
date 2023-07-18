@@ -3,15 +3,13 @@
     padding: 1rem;
     border-radius: 0.5rem;
     text-align: center;
-    margin-bottom: 10rem;
+
 } 
 input{
     border: none !important;
     text-align: center;  
     color: #03045e !important;
-    padding: 10px !important;
-    font-size: 1.1rem !important;
-    font-weight: 500 !important;
+    font-weight: bolder !important;
 }
 input::placeholder {
     color: #03045e !important;
@@ -29,11 +27,6 @@ input::placeholder {
 }
 .button-enviar:hover{
     background-color: #023e8a;
-}
-.form-control {
-    width: 100%;
-    padding: 10px;
-    font-size: 16px;
 }
 .mensagem{
     font-size: 3rem;

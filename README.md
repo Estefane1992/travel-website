@@ -23,14 +23,3 @@ Isso iniciará o servidor de desenvolvimento e abrirá o aplicativo em seu naveg
 ## Contato
 Se você tiver alguma dúvida sobre este projeto, entre em contato comigo em [fannyczs2012@gmail.com].
 ##############################
-
-
-
-
-
-
-
-
-
-
-

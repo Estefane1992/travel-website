@@ -1,7 +1,7 @@
 .footer {
   background: #d0d8ff;
   padding-top: 10px !important;
-  padding-bottom: 8px !important;
+  padding-bottom: 1px !important;
   justify-content: center;
   text-align: center;
   position: fixed;
@@ -19,7 +19,7 @@
 
 .footer-icons li {
   margin-right: 1rem;
-  font-size: 1.3rem;
+  font-size: 1rem;
 }
 
 .footer-icons li:hover {
