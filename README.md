@@ -3,22 +3,21 @@
 Este projeto é uma página de checkout de viagem simples construída com React. Ela permite que os usuários insiram suas informações de viagem, e concluam o processo de reserva.
 
 ## Executando o Projeto
-1. Clone o repositório
-git clone git@github.com:Estefane1992/travel-website.git
+1. Clone o repositório: 
+git@github.com:Estefane1992/travel-website.git
 
 2. Navegue até o diretório do projeto:
 cd travel-website
 
 3. Instale as dependências usando:
-## `npm install` ou
-## `yarn install`
+# `npm install` ou
+# `yarn install`
 
 4. Inicie o servidor usando o seguinte comando:
-### `npm start`
+# `npm start`
 
 Isso iniciará o servidor de desenvolvimento e abrirá o aplicativo em seu navegador padrão. Se o navegador não abrir automaticamente, você pode acessar o aplicativo em [http://localhost:3000](http://localhost:3000).
 
-### `npm test`
 
 
 # Contato
